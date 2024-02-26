@@ -1,0 +1,11 @@
+.navbar-nav {
+    margin-left: auto;
+  }
+  ul {
+    list-style: none; 
+}
+
+li::before {
+    content: none; 
+}
+
